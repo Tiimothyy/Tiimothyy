@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tiimothyy
 - 👀 I’m interested in Computer science 
 - 🌱 I’m currently learning Java and MySql
-- 💞️ I’m looking to collaborate on norhing
 - 📫 You dont reach out to me
 
 <!---
